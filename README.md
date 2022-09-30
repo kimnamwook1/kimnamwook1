@@ -5,4 +5,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=john1102)](https://solved.ac/john1102)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnamwook12&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnamwook1&layout=compact&theme=gruvbox)
